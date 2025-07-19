@@ -1,0 +1,11 @@
+streamlit
+pandas
+ydata-profiling
+matplotlib
+prophet
+google-generativeai
+weasyprint
+jinja2
+pmdarima
+scikit-learn
+python-dotenv
